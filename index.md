@@ -14,8 +14,8 @@ My GitHub page is http://github.com/yetzicg
 
 *Lab 8 
 
-Lab 8 was another favorite because of the simplicity since it was simple understanding of math such as looking for the minimum or maximum score or finding average with an equation which really used basic understanding of math and help us have a foundation on what the code should be. In this lab I was also able to practice the use of **for loops** to go through the arguments in the command line. Also, we got to use member functions such as **.size()** and **.at()**, which gave good practice on how we could use member functions with the for loops. 
+ Lab 8 was another favorite because of the simplicity since it was simple understanding of math such as looking for the minimum or maximum score or finding average with an equation which really used basic understanding of math and help us have a foundation on what the code should be. In this lab I was also able to practice the use of **for loops** to go through the arguments in the command line. Also, we got to use member functions such as **.size()** and **.at()**, which gave good practice on how we could use member functions with the for loops. 
 
 *Lab 11 
 
-Lab 11 was a favorite lab because it showed how we can use the return function to simplify code instead of using conditional statements. We also got to practice with public constructors and identifying the correct parameters and the importance of listing the parameters or the code would not function. I also liked how more in depth the “TODO’s” were and helped me notice I did not need to overcomplicate the instructions when following the tasks. 
+ Lab 11 was a favorite lab because it showed how we can use the return function to simplify code instead of using conditional statements. We also got to practice with public constructors and identifying the correct parameters and the importance of listing the parameters or the code would not function. I also liked how more in depth the “TODO’s” were and helped me notice I did not need to overcomplicate the instructions when following the tasks. 
